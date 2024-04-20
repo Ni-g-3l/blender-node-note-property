@@ -6,6 +6,22 @@ Add note property on Blender Node
 
 This project was bootstrapped with [Blender Addon Template](git@github.com:kitchen-production/blender-addon-template.git).
 
+## ⚙️ How it works
+
+Select a node in one of Blender Node Editor (Compositor, Geometry Node Editor, Material Node Editor).
+
+Then in N-Panel, Node tab you will find a new folded panel called 'Note'
+
+![add_note](.media/add_note.png)
+
+When you click on **"Add Note"**, it will open a new window with a Text Editor where you can write your note.
+
+![update_remove](.media/update_remove_note.png)
+
+You can edit afterward previously created note, or juste remove them.
+
+![all](.media/edit_note.png)
+
 ## ⚙️ Commands
 
 In the project directory, you can run:
