@@ -1,0 +1,1 @@
+from node_note_property_addon.blender.panel.node_note_panel import NODE_PT_NotePanel

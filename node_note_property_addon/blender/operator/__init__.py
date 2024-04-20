@@ -1,0 +1,2 @@
+from node_note_property_addon.blender.operator.node_add_or_update_note_operator import NODE_OT_add_or_update_note_property
+from node_note_property_addon.blender.operator.node_remove_note_operator import NODE_OT_remove_note_property
